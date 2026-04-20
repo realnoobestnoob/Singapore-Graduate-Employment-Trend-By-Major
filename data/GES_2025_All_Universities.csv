@@ -1,0 +1,148 @@
+year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,basic_monthly_mean,basic_monthly_median,gross_monthly_mean,gross_monthly_median,gross_mthly_25_percentile,gross_mthly_75_percentile
+2025,NUS,Faculty of Arts & Social Sciences,Bachelor of Arts,60.0,40.0,NA,NA,NA,NA,NA,NA
+2025,NUS,Faculty of Arts & Social Sciences,Bachelor of Arts (Hons),85.0,66.2,4531,4654,4783,4680,4398,5038
+2025,NUS,Faculty of Arts & Social Sciences,Bachelor of Social Sciences,88.4,71.9,4430,4300,4578,4500,4000,5000
+2025,NUS,Faculty of Dentistry,Bachelor of Dental Surgery,100.0,100.0,4553,4550,4595,4550,4500,4597
+2025,NUS,Faculty of Law,Bachelor of Laws,NA,NA,NA,NA,NA,NA,NA,NA
+2025,NUS,Faculty of Science,Bachelor of Science,NA,NA,NA,NA,NA,NA,NA,NA
+2025,NUS,Faculty of Science,Bachelor of Science (Hons),87.4,71.2,4349,4000,4531,4250,3950,4850
+2025,NUS,Faculty of Science,Bachelor of Pharmacy (Hons),97.4,97.4,4240,4200,4598,4475,4200,4986
+2025,NUS,Faculty of Science,Bachelor of Science (Data Science and Analytics),82.4,65.1,5234,5000,5380,5000,4450,6000
+2025,NUS,NUS Business School,Bachelor of Business Administration,95.0,82.5,6563,6000,6962,6000,4000,9000
+2025,NUS,NUS Business School,Bachelor of Business Administration (Hons),91.1,80.2,5288,4669,5463,4860,4300,6000
+2025,NUS,NUS Business School,Bachelor of Business Administration (Accountancy),NA,NA,NA,NA,NA,NA,NA,NA
+2025,NUS,NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),96.2,90.9,4730,4350,4790,4375,4350,4999
+2025,NUS,NUS Business School,Bachelor of Science (Real Estate),92.9,81.4,4331,4000,4533,4200,3850,5000
+2025,NUS,School of Computing,Bachelor of Computing (Computer Science),90.9,84.1,6485,6250,6674,6400,5300,7500
+2025,NUS,School of Computing,Bachelor of Computing (Information Security),88.0,84.0,5682,5500,6071,6000,5150,6800
+2025,NUS,School of Computing,Bachelor of Computing (Information Systems),96.8,92.1,5938,5665,6126,6000,5000,7000
+2025,NUS,School of Computing,Bachelor of Science (Business Analytics),94.0,85.7,6191,5500,6375,5700,5000,7083
+2025,NUS,College of Design and Engineering,Bachelor of Engineering (Biomedical Engineering),81.2,64.4,4264,4125,4504,4385,4017,4900
+2025,NUS,College of Design and Engineering,Bachelor of Engineering (Chemical Engineering),86.5,73.0,4605,4500,4829,4800,4500,5100
+2025,NUS,College of Design and Engineering,Bachelor of Engineering (Civil Engineering),96.2,92.4,4403,4300,4543,4378,4100,5000
+2025,NUS,College of Design and Engineering,Bachelor of Engineering (Electrical Engineering),88.8,82.1,4735,4600,4951,4900,4500,5400
+2025,NUS,College of Design and Engineering,Bachelor of Engineering (Engineering Science),87.0,65.2,4633,4731,5016,5000,4500,5800
+2025,NUS,College of Design and Engineering,Bachelor of Engineering (Environmental Engineering),86.7,63.3,4332,4500,4450,4500,4100,4650
+2025,NUS,College of Design and Engineering,Bachelor of Engineering (Infrastructure & Project Management),100.0,83.3,NA,NA,NA,NA,NA,NA
+2025,NUS,College of Design and Engineering,Bachelor of Engineering (Industrial and Systems Engineering),91.9,83.9,5002,4800,5183,5000,4500,5600
+2025,NUS,College of Design and Engineering,Bachelor of Engineering (Materials Science and Engineering),87.5,59.4,4570,4680,4775,4800,4200,5000
+2025,NUS,College of Design and Engineering,Bachelor of Engineering (Mechanical Engineering),87.3,75.7,4808,4645,5045,5000,4495,5591
+2025,NUS,College of Design and Engineering,Bachelor of Arts (Architecture),100.0,96.8,4910,4600,4979,4600,4500,5112
+2025,NUS,College of Design and Engineering,Bachelor of Landscape Architecture,68.0,40.0,3924,3800,3949,3800,3800,4008
+2025,NUS,College of Design and Engineering,Bachelor of Arts (Industrial Design),85.7,47.6,3948,3900,4071,4050,3500,4500
+2025,NUS,College of Design and Engineering,Bachelor of Science (Project and Facilities Management),93.2,79.7,4198,4200,4386,4265,4000,4600
+2025,NUS,Yong Loo Lin School of Medicine,Bachelor of Medicine and Bachelor of Surgery,100.0,100.0,5129,5050,6344,6500,6000,6930
+2025,NUS,Yong Loo Lin School of Medicine,Bachelor of Science (Nursing),95.5,87.6,3737,3750,4094,4000,3850,4300
+2025,NUS,Yong Loo Lin School of Medicine,Bachelor of Science (Nursing) (Hons),96.2,87.7,3865,3900,4199,4200,4025,4390
+2025,NUS,YST Conservatory of Music,Bachelor of Music,77.3,4.5,NA,NA,NA,NA,NA,NA
+2025,NUS,Yale-NUS College,Bachelor of Arts with Honours,89.6,73.9,5048,4500,5242,4600,4030,5650
+2025,NUS,Yale-NUS College,Bachelor of Science with Honours,80.0,66.7,5865,4950,5974,4973,4450,6900
+2025,NUS,Multi-Disciplinary Programmes,Bachelor of Engineering (Computer Engineering),89.2,78.5,5755,5500,5988,5600,5230,6500
+2025,NUS,Multi-Disciplinary Programmes,Bachelor of Environmental Studies,92.0,72.0,4175,4225,4460,4500,4000,4762
+2025,NTU,College of Business / Nanyang Business School,Accountancy,96.7,88.5,4530,4350,4578,4350,4300,4550
+2025,NTU,College of Business / Nanyang Business School,Accountancy and Business,96.0,89.3,5233,4550,5385,4680,4350,6000
+2025,NTU,College of Business / Nanyang Business School,Accountancy and Data Science & Artificial Intelligence,NA,NA,NA,NA,NA,NA,NA,NA
+2025,NTU,College of Business / Nanyang Business School,Business,90.4,71.8,4766,4354,4946,4500,4000,5300
+2025,NTU,College of Computing and Data Science + College of Business,Double Degree in Business and Computer Engineering/Computing,88.9,83.3,6714,6500,6993,6950,5520,8000
+2025,NTU,College of Computing and Data Science,Computer Engineering,84.6,75.4,5182,5000,5348,5150,4900,5850
+2025,NTU,College of Computing and Data Science,Computer Science,89.5,79.7,5675,5400,5852,5500,4900,6565
+2025,NTU,College of Computing and Data Science,Data Science and Artificial Intelligence,81.0,75.9,5313,5250,5408,5250,4850,6130
+2025,NTU,College of Engineering,Aerospace Engineering,78.4,62.9,4703,4500,4901,4640,4200,5400
+2025,NTU,College of Engineering,Bioengineering,83.9,62.9,4116,4000,4330,4300,4000,4541
+2025,NTU,College of Engineering,Chemical and Biomolecular Engineering,87.0,69.1,4161,4200,4434,4400,4000,4900
+2025,NTU,College of Engineering,Civil Engineering,95.9,79.6,4324,4190,4522,4200,4000,4620
+2025,NTU,College of Engineering,Electrical and Electronic Engineering,86.4,75.8,4593,4640,4786,4800,4250,5200
+2025,NTU,College of Engineering,Environmental Engineering,86.8,63.2,4205,4000,4351,4200,3900,4900
+2025,NTU,College of Engineering,Information Engineering and Media,75.4,59.6,5071,4900,5130,4950,4700,5500
+2025,NTU,College of Engineering,Maritime Studies,93.2,80.7,4344,4200,4424,4200,4000,4800
+2025,NTU,College of Engineering,Materials Engineering,84.8,72.0,4538,4640,4748,4700,4200,5000
+2025,NTU,College of Engineering,Mechanical Engineering,86.7,73.3,4537,4400,4664,4500,4090,5000
+2025,NTU,College of Engineering / Computing and Data Science + College of Humanities Arts & Social Sciences,Double Degree in Engineering / Computer Science and Economics,93.8,68.8,6115,5000,6270,5500,5000,7500
+2025,NTU,College of Humanities Arts & Social Sciences,Art Design and Media,76.4,34.8,3446,3350,3464,3350,3000,3600
+2025,NTU,College of Humanities Arts & Social Sciences,Chinese,93.9,73.5,4018,4140,4208,4345,3625,4680
+2025,NTU,College of Humanities Arts & Social Sciences,Communication Studies,91.0,55.7,4075,4000,4164,4000,3700,4618
+2025,NTU,College of Humanities Arts & Social Sciences,Economics,92.3,78.5,4542,4500,4709,4621,4100,5200
+2025,NTU,College of Humanities Arts & Social Sciences,English,77.9,51.5,3880,4000,4008,4100,3200,4680
+2025,NTU,College of Humanities Arts & Social Sciences,History,81.8,52.3,4360,4500,4516,4583,3700,4800
+2025,NTU,College of Humanities Arts & Social Sciences,Linguistics and Multilingual Studies,77.4,47.2,3784,3800,4035,3950,3550,4498
+2025,NTU,College of Humanities Arts & Social Sciences,Philosophy,75.0,62.5,4054,4050,4383,4390,3500,4908
+2025,NTU,College of Humanities Arts & Social Sciences,Psychology,83.8,58.6,4173,4000,4354,4065,3850,4945
+2025,NTU,College of Humanities Arts & Social Sciences,Public Policy and Global Affairs,87.1,71.0,4887,4698,4966,4880,4500,5550
+2025,NTU,College of Humanities Arts & Social Sciences,Sociology,83.3,64.8,4112,4225,4398,4500,4000,4780
+2025,NTU,College of Humanities Arts & Social Sciences,Interdisciplinary Double / Integrated Major,87.7,71.9,4504,4469,4605,4500,4000,5000
+2025,NTU,College of Science,Biological Sciences,91.9,69.4,3971,4000,4123,4000,3800,4300
+2025,NTU,College of Science,Biomedical Sciences,96.4,89.3,3769,3500,4049,3700,3500,4400
+2025,NTU,College of Science,Chemistry and Biological Chemistry,80.0,64.8,4048,4000,4257,4200,3700,4680
+2025,NTU,College of Science,Environmental Earth Systems Science,90.0,76.7,4399,4300,4585,4350,4100,5000
+2025,NTU,College of Science,Mathematical Sciences,78.1,64.4,4776,4500,5108,4680,4300,5100
+2025,NTU,College of Science,Physics and Applied Physics,78.1,56.3,4610,4600,4706,4600,3800,5221
+2025,NTU,College of Science,Interdisciplinary Double Major,84.4,71.9,5594,5226,5628,5226,5020,6500
+2025,NTU,National Institute of Education,Arts (Academic Discipline and Education),100.0,100.0,4562,4875,4749,5000,4309,5105
+2025,NTU,National Institute of Education,Science (Academic Discipline and Education),100.0,100.0,5092,5109,5181,5109,5014,5400
+2025,NTU,National Institute of Education,Sports Science and Management,87.5,66.7,4035,3975,4331,4100,3625,4773
+2025,NTU,Lee Kong Chian School of Medicine,Medicine,100.0,100.0,5163,5050,6551,6500,6000,7000
+2025,SMU,School of Accountancy,Accountancy,97.0,91.4,4653,4350,4774,4350,4300,5000
+2025,SMU,School of Accountancy,Accountancy (Cum Laude and above),98.9,93.2,5039,4350,5130,4500,4350,5090
+2025,SMU,School of Business,Business Management,88.9,75.9,5045,4500,5234,4600,4000,5525
+2025,SMU,School of Business,Business Management (Cum Laude and above),93.5,83.0,5501,5000,5618,5000,4300,6000
+2025,SMU,School of Economics,Economics,89.6,76.2,4669,4400,4900,4500,4100,5200
+2025,SMU,School of Economics,Economics (Cum Laude and above),91.7,83.3,5009,4900,5247,5000,4297,5500
+2025,SMU,School of Computing & Information Systems,Computing & Law,81.0,76.2,4999,5000,5192,5000,4300,5500
+2025,SMU,School of Computing & Information Systems,Computing & Law (Cum Laude and above),NA,NA,NA,NA,NA,NA,NA,NA
+2025,SMU,School of Computing & Information Systems,Information Systems,94.3,83.4,5339,5000,5515,5400,4800,6028
+2025,SMU,School of Computing & Information Systems,Information Systems (Cum Laude and above),100.0,93.5,5748,5600,5919,5785,5000,6750
+2025,SMU,School of Computing & Information Systems,Computer Science,88.3,83.3,6036,6000,6135,6000,5000,7083
+2025,SMU,School of Computing & Information Systems,Computer Science (Cum Laude and above),91.4,85.7,6488,6250,6513,6250,5400,7083
+2025,SMU,School of Social Sciences,Social Sciences,91.5,74.4,4131,4000,4247,4000,3600,4700
+2025,SMU,School of Social Sciences,Social Sciences (Cum Laude and above),91.8,74.0,4345,4280,4489,4350,3900,4900
+2025,SMU,School of Law,Law,NA,NA,NA,NA,NA,NA,NA,NA
+2025,SMU,School of Law,Law (Cum Laude and above),NA,NA,NA,NA,NA,NA,NA,NA
+2025,SUTD,SUTD,Bachelor of Engineering (Computer Science and Design),91.7,76.9,NA,NA,5375,5000,4800,5825
+2025,SUTD,SUTD,Bachelor of Engineering (Engineering Product Development),84.2,71.9,NA,NA,5020,4965,4500,5400
+2025,SUTD,SUTD,Bachelor of Science (Design and Artificial Intelligence),81.8,63.6,NA,NA,4652,4925,4096,5393
+2025,SUTD,SUTD,Bachelor of Engineering (Engineering Systems and Design),93.0,73.7,NA,NA,4595,4900,4100,5200
+2025,SUTD,SUTD,Bachelor of Science (Architecture and Sustainable Design),97.1,91.4,NA,NA,4396,4490,4000,4800
+2025,SIT,Culinary Institute of America,Bachelor of Business Administration in Food Business Management,100.0,63.6,2999,3000,3545,3500,3400,3800
+2025,SIT,DigiPen Institute of Technology,Bachelor of Arts in User Experience and Game Design,80.0,50.0,3725,3550,3814,3600,3300,4100
+2025,SIT,DigiPen Institute of Technology,Bachelor of Fine Arts in Digital Art and Animation,72.2,44.4,NA,NA,NA,NA,NA,NA
+2025,SIT,Singapore Institute of Technology,Bachelor of Accountancy with Honours,97.6,87.3,4297,4350,4349,4350,4000,4550
+2025,SIT,Singapore Institute of Technology,Bachelor of Engineering with Honours in Computer Engineering,79.2,64.6,4498,4500,4638,4534,4000,5000
+2025,SIT,Singapore Institute of Technology,Bachelor of Engineering with Honours in Information & Communications Technology (Information Security),84.2,74.7,5052,5000,5192,5000,4500,5600
+2025,SIT,Singapore Institute of Technology,Bachelor of Engineering with Honours in Information & Communications Technology (Software Engineering),86.8,76.5,5025,5000,5128,5000,4800,5500
+2025,SIT,Singapore Institute of Technology,Bachelor of Engineering with Honours in Pharmaceutical Engineering,96.8,92.1,3965,3975,4548,4500,4200,4721
+2025,SIT,Singapore Institute of Technology,Bachelor of Engineering with Honours in Robotics Systems,80.0,72.0,4581,4500,4656,4650,4200,5000
+2025,SIT,Singapore Institute of Technology,Bachelor of Engineering with Honours in Sustainable Infrastructure Engineering (Building Services),90.2,80.4,4124,4000,4238,4000,3820,4400
+2025,SIT,Singapore Institute of Technology,Bachelor of Engineering with Honours in Sustainable Infrastructure Engineering (Land),83.7,65.3,4239,4225,4513,4550,4081,5025
+2025,SIT,Singapore Institute of Technology,Bachelor of Hospitality Business with Honours,85.9,70.7,3555,3500,3767,3500,3310,4000
+2025,SIT,Singapore Institute of Technology,Bachelor of Science with Honours in Air Transport Management,75.6,60.0,3866,3800,4200,4100,3820,4500
+2025,SIT,Singapore Institute of Technology,Bachelor of Science with Honours in Applied Artificial Intelligence,65.7,57.1,4501,4500,4618,4550,3850,5320
+2025,SIT,Singapore Institute of Technology,Bachelor of Science with Honours in Diagnostic Radiography,100.0,92.4,3909,3900,4092,4000,3900,4275
+2025,SIT,Singapore Institute of Technology,Bachelor of Science with Honours in Dietetics and Nutrition,100.0,92.0,3975,4000,3976,4000,3850,4050
+2025,SIT,Singapore Institute of Technology,Bachelor of Science with Honours in Digital Communications and Integrated Media,89.8,69.4,3665,3600,3776,3675,3400,4010
+2025,SIT,Singapore Institute of Technology,Bachelor of Science with Honours in Digital Supply Chain,90.9,84.8,3882,4000,3994,4080,3800,4200
+2025,SIT,Singapore Institute of Technology,Bachelor of Science with Honours in Occupational Therapy,100.0,98.0,3778,3850,3858,3925,3800,4048
+2025,SIT,Singapore Institute of Technology,Bachelor of Science with Honours in Physiotherapy,100.0,99.0,4072,4020,4142,4110,3925,4290
+2025,SIT,Singapore Institute of Technology,Bachelor of Science with Honours in Speech and Language Therapy,100.0,95.5,3950,3900,3970,3900,3800,4200
+2025,SIT,SIT - DigiPen Institute of Technology,Bachelor of Engineering with Honours in Mechatronics Systems,75.8,69.7,4424,4400,4723,4600,4000,5000
+2025,SIT,SIT - DigiPen Institute of Technology,Bachelor of Science with Honours in Computer Science in Interactive Media and Game Development,72.1,51.2,4495,4510,4635,4560,4025,5200
+2025,SIT,SIT - DigiPen Institute of Technology,Bachelor of Science with Honours in Computer Science in Real-Time Interactive Simulation,90.3,83.9,5119,4900,5227,5000,4660,5500
+2025,SIT,SIT - Massey University,Bachelor of Food Technology with Honours,93.9,55.1,3571,3500,3707,3600,3200,4040
+2025,SIT,SIT - Newcastle University,Bachelor of Engineering with Honours in Electrical Power Engineering,84.5,73.2,4282,4100,4483,4250,4000,4745
+2025,SIT,SIT - Newcastle University,Bachelor of Engineering with Honours in Mechanical Design and Manufacturing Engineering,83.0,72.3,4172,4200,4252,4200,3900,4500
+2025,SIT,SIT - Newcastle University,Bachelor of Engineering with Honours in Naval Architecture and Marine Engineering,86.4,77.3,4466,4150,4819,4700,4000,5400
+2025,SIT,SIT - University of Glasgow,Bachelor of Engineering with Honours in Aerospace Engineering,74.2,51.6,4807,4200,4925,4400,4000,6000
+2025,SIT,SIT - University of Glasgow,Bachelor of Engineering with Honours in Civil Engineering,84.2,75.0,4185,4125,4363,4200,4000,4400
+2025,SIT,SIT - University of Glasgow,Bachelor of Engineering with Honours in Mechanical Engineering,87.5,75.0,4143,4183,4326,4200,3890,4675
+2025,SIT,SIT - University of Glasgow,Bachelor of Science with Honours in Computing Science,80.2,65.3,5039,5000,5168,5000,4550,5700
+2025,SIT,SIT - University of Glasgow,Bachelor of Science with Honours in Nursing,98.1,75.5,3896,3900,4198,4163,3900,4422
+2025,SIT,SIT - Technical University of Munich,Bachelor of Engineering with Honours in Chemical Engineering,86.2,75.9,4259,4000,4468,4250,3967,4985
+2025,SIT,SIT - Technical University of Munich,Bachelor of Engineering with Honours in Electronics and Data Engineering,90.0,77.5,4511,4400,4705,4700,4250,5100
+2025,SUSS,School of Business,Bachelor of Accountancy,93.8,85.9,NA,4350,NA,4350,4300,4500
+2025,SUSS,School of Business,Bachelor of Science in Business Analytics,83.3,69.7,NA,4600,NA,4800,4200,5439
+2025,SUSS,School of Business,Bachelor of Science in Finance,89.2,64.9,NA,4325,NA,4400,4145,5134
+2025,SUSS,School of Business,Bachelor of Science in Marketing,84.9,56.2,NA,3600,NA,3715,3500,4200
+2025,SUSS,School of Business,Bachelor of Science in Supply Chain Management,82.4,63.2,NA,3800,NA,4000,3600,4325
+2025,SUSS,School of Humanities and Behavioural Sciences,Bachelor of Public Safety and Security,91.8,69.4,NA,4215,NA,5000,4185,5800
+2025,SUSS,School of Social Work and Social Development,Bachelor of Social Work,94.9,82.3,NA,3950,NA,3950,3850,4050
+2025,SUSS,S R Nathan School of Human Development,Bachelor of Early Childhood Education,100.0,93.8,NA,3700,NA,3800,3500,3995
+2025,SUSS,S R Nathan School of Human Development,Bachelor of Human Resource Management,90.1,72.8,NA,4000,NA,4000,3700,4300
