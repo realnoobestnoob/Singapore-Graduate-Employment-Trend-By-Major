@@ -1,4 +1,10 @@
-# Singapore-Employment-Trend-By-Major
-Job-seeking for Singaporean fresh graduates seems to be so tough! What are some trends and patterns that can be uncovered?
+# Singapore Graduate Employment Trends
 
-Data source: https://data.gov.sg/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view
+- **Description**: this project presents an exploratory data analysis (EDA) of the MOE Graduate Employment Survey (GES) dataset, focusing on employment rates and median monthly salaries. The dataset comrpises of important details such as university, degree, full time employment rate, median gross monthly salary, and so on. Through this project, I delve into the dataset to extract meaningful insights and uncover notable findings, providing a comprehensive understanding of the graduate job market in Singapore
+
+- **Key findings**:
+1. Overall employment and salary trends
+2. Best and worst degrees in terms of employability and pay
+3. Trends within each job industry
+
+- **Tools used**: pandas, matplotlib
